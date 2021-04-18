@@ -1,9 +1,12 @@
 @media screen and (min-width:300px) and (max-width: 576px) {
   .full-menu{
-    width: 40%;
+    width: 50%;
   }
   .full-searchbar{
-    width: 60%;
+    width: 50%;
+  }
+  .for-searchbar{
+    width:50%;
   }
 
   .for-menu ul li{    
